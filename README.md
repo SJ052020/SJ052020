@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SJ052020
 - 👀 I’m interested in ... Java, Spring, Microservices, Cloud
 - 🌱 I’m currently learning ... Microservices, GraphQL, MongoDB
-- 💞️ I’m looking to collaborate on ... Java-based projects
+- 💞️ I’m looking to collaborate on ... Java, Microservices projects
 - 📫 How to reach me ... 
 
 <!---
